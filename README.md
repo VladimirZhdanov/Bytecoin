@@ -6,6 +6,11 @@ BiteCoin exchange app for iOS using API (www.coinapi.io).
 
 In order to run this app you have to get your own api key(www.coinapi.io) and add this key to CoinManager.swift as String variable.
 
+```
+ let apiKey = "{API_KEY}"
+```
+
+
 ### Prerequisites
 
 You will need a mac computer, xcode app and as optional physical iPhone.
