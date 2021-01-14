@@ -1,7 +1,7 @@
 # Bytecoin
-## BiteCoin exchange app for iOS using API (www.coinapi.io)
+BiteCoin exchange app for iOS using API (www.coinapi.io)
 
-# Screenshots
+## Screenshots
 
 <div align="left">
     <img src="https://github.com/VladimirZhdanov/Bytecoin/blob/main/images/IMG_0307.PNG" width="200px"</img> 
