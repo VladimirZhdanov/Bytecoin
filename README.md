@@ -1,6 +1,14 @@
 # Bytecoin
 BiteCoin exchange app for iOS using API (www.coinapi.io)
 
-![img](https://github.com/VladimirZhdanov/Bytecoin/blob/main/images/IMG_0307.PNG)
-![img](https://github.com/VladimirZhdanov/Bytecoin/blob/main/images/IMG_0308.PNG)
+<div align="center">
+    <img src="https://github.com/VladimirZhdanov/Bytecoin/blob/main/images/IMG_0307.PNG" width="400px"</img> 
+</div>
 
+<div align="center" style="width:864px;">
+    
+</div>
+
+<div align="center">
+    <img src="https://github.com/VladimirZhdanov/Bytecoin/blob/main/images/IMG_0308.PNG" width="400px"</img> 
+</div>
